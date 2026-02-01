@@ -30,7 +30,7 @@ _________________________________________________________________________
   * Data modeling
   * DAX measures
   * Interactive dashboards
-  * KPI calculations
+ 
 
 * **Microsoft Excel**
 
