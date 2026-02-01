@@ -1,8 +1,7 @@
 # Marketing & Sales Analytics – Project Overview
 
 ## 🔹 Problem Statement
-The sales team lacked a centralized and visual reporting system to effectively track sales performance, customer behavior, product performance, and sales versus budget.  
-Traditional reports were time-consuming and failed to deliver actionable insights for business decision-making.
+The sales team lacked a centralized and visual reporting system to effectively track sales performance, customer behavior, product performance, and sales versus budget.Traditional reports were time-consuming and failed to deliver actionable insights for business decision-making.
 
 ## 🔹 Tables Used
 - FACT_InternetSales
