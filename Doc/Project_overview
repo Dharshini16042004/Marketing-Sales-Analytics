@@ -1,1 +1,68 @@
-Project_overview
+Marketing_Sales Analytics – Project Overview
+
+🔹 Problem Statement
+
+The sales team lacked a centralized and visual reporting system to effectively track sales performance, customer behavior, product performance, and sales versus budget.
+Traditional reports were time-consuming and failed to deliver actionable insights for business decision-making.
+
+🔹 Tables Used
+
+FACT_InternetSales
+
+DIM_Customer
+
+DIM_Product
+
+DIM_Calendar
+
+SalesBudget_Clean
+
+🔹 Business Users
+
+Sales Manager
+
+Sales Representatives
+
+Business Leadership Team
+
+🔹 Solution Approach
+
+Created a structured database using SQL Server
+
+Performed data cleaning and validation
+
+Designed an optimized Star Schema data model
+
+Developed KPIs for sales, customers, products, and budget analysis
+
+Built interactive Power BI dashboards with slicers and filters
+
+🔹 Technology Stack
+
+SQL Server – Database creation, data cleaning, KPI calculations
+
+Power BI – Data modeling, DAX measures, interactive dashboards
+
+Microsoft Excel – Source data for sales and budget
+
+🔹 Dashboards Delivered
+
+Sales Overview Dashboard
+
+Customer Sales Analysis Dashboard
+
+Product Sales Analysis Dashboard
+
+🔹 Business Impact
+
+Improved visibility into overall sales performance
+
+Enabled faster and data-driven decision-making
+
+Identified high-value customers and top-performing products
+
+Supported effective sales planning and budget tracking
+
+🔹 Project Outcome
+
+Delivered an end-to-end analytics solution that provides actionable insights into sales performance, customer behavior, and product trends, significantly enhancing overall sales reporting efficiency.
