@@ -5,7 +5,7 @@
 This project focuses on **Marketing and Sales Analytics** for an e-commerce business.
 It analyzes **internet sales and budget data** using **interactive Power BI dashboards** to support **data-driven decision-making**.
 
-_________________________________________________________________________
+
 
 
 ##  Project Objectives
@@ -15,7 +15,7 @@ _________________________________________________________________________
 * Identify top customers and best-selling products
 * Track sales trends over time
 
-_________________________________________________________________________
+
 
 
 ##  Technologies Used
@@ -36,7 +36,7 @@ _________________________________________________________________________
 
   * Source data for sales and budget
 
-_________________________________________________________________________
+
 
 
 ##  Data Modeling
@@ -54,7 +54,7 @@ A **Star Schema** is implemented in Power BI to ensure efficient reporting and a
 * **DIM_Calendar**
 * **SalesBudget_Clean**
 
-_________________________________________________________________________
+
 
 
 ##  Key KPIs
@@ -67,7 +67,7 @@ _________________________________________________________________________
 * Orders per Customer
 * Orders per Product
 
-_________________________________________________________________________
+
 
 
 ##  Dashboards
@@ -78,7 +78,7 @@ _________________________________________________________________________
 
 Each dashboard is designed to provide clear insights and support business decision-making.
 
-_________________________________________________________________________
+
 
 ##  Repository Structure
 
@@ -90,12 +90,12 @@ _________________________________________________________________________
 
 /Screenshots-Dashboard and data model screenshots
 
-_________________________________________________________________________
+
 
 ##  Author
 
 Dharshini S
 
-_________________________________________________________________________
+
 
 
