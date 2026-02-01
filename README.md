@@ -83,10 +83,12 @@ _________________________________________________________________________
 ##  Repository Structure
 
 /SQL        – Data preparation and cleaning scripts
+
 /PowerBI   – Power BI report (.pbix file)
+
 /Docs      – Documentation and data model details
+
 /Screenshots-Dashboard and data model screenshots
-README.md  – Project documentation
 
 _________________________________________________________________________
 
